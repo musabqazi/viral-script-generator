@@ -4,9 +4,7 @@
 
 > Turns a creator's own back catalogue of viral short-form videos into a private model of *why* they went viral — then writes ten ranked, ready-to-record scripts on demand, in that creator's exact voice.
 
-<p align="center">
-  <a href="https://viral-script-generator-three.vercel.app"><img src="https://img.shields.io/badge/Live-demo-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-</p>
+<p align="center"></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js_16-000?logo=nextdotjs&logoColor=white">
@@ -53,7 +51,7 @@ A creator posting daily short-form video lives or dies on the first three second
 
 ## Try it live
 
-**[viral-script-generator-three.vercel.app](https://viral-script-generator-three.vercel.app)** — access is allowlisted (real creator data sits behind it), so the live URL opens on the sign-in screen.
+**** — access is allowlisted (real creator data sits behind it), so the live URL opens on the sign-in screen.
 
 ---
 
